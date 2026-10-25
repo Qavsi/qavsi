@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "selection": "designmd.app based on prior user Liquid Glass link; optional source clarification pending",
+  "sources": [
+    {
+      "id": "material-design-3",
+      "title": "Material Design 3 / Material You",
+      "file": "material3/DESIGN.md",
+      "page": "https://designmd.app/library/material-design-3",
+      "download": "https://designmd.app/library/material-design-3/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.515928+00:00",
+      "sha256": "1ea35e38148f7173e5459e57f7cb9f6001c395dce995fad7aacd016285c1e8eb",
+      "format_version": "alpha",
+      "role": "kit reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false
+    },
+    {
+      "id": "liquid-glass",
+      "title": "Liquid Glass",
+      "file": "apple/DESIGN.md",
+      "page": "https://designmd.app/library/liquid-glass",
+      "download": "https://designmd.app/library/liquid-glass/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.516897+00:00",
+      "sha256": "dc843b4538a962caca06e21c1e43c1a264ea72f638b186a850f6f8ca17550b93",
+      "format_version": "alpha",
+      "role": "kit visual reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": null,
+      "modified": false,
+      "normative_authority": false
+    },
+    {
+      "id": "fluent-design-2",
+      "title": "Fluent Design 2 (Fluent 2)",
+      "file": "fluent/DESIGN.md",
+      "page": "https://designmd.app/library/fluent-design-2",
+      "download": "https://designmd.app/library/fluent-design-2/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.517190+00:00",
+      "sha256": "dfd665f72baecaf49c37052cd3f84474ecce2c4bc52c74ae9ce104cd74a4ec9b",
+      "format_version": "alpha",
+      "role": "kit reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false
+    },
+    {
+      "id": "apple-hig",
+      "title": "Apple HIG (pre-Liquid flat)",
+      "file": "apple/pre-liquid.DESIGN.md",
+      "page": "https://designmd.app/library/apple-hig",
+      "download": "https://designmd.app/library/apple-hig/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.517665+00:00",
+      "sha256": "5dd6f714ecb467261b0b85dec23ee8e8ead05a14face043e29ab2e3d019ade3f",
+      "format_version": "alpha",
+      "role": "historical supplement, not Liquid Glass replacement",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false
+    }
+  ]
+}

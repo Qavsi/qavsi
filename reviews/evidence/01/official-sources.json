@@ -1,0 +1,296 @@
+{
+  "repo": "https://github.com/material-components/material-components-android",
+  "tag": "1.13.0",
+  "commit": "84c0e6d6d493fcf176d2099683245b78afbeb78d",
+  "retrieved_at": "2026-10-23",
+  "role": "Google/AOSP official M3 component reference; not a dependency or full cross-platform spec",
+  "sources": [
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/tokens.xml",
+      "sha256": "f5ee336d5bbb409a15e39a78ab98a578ea98d26c14424d98a52a6365ac00be36",
+      "bytes": 14395
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/icon_btn_tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/icon_btn_tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/icon_btn_tokens.xml",
+      "sha256": "238efd2a09a9493987f92f4d8bb8c3712be4046a11ada9c21908065ffdbb6a46",
+      "bytes": 8418
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/button_group_tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/button_group_tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/button_group_tokens.xml",
+      "sha256": "c167dff39df75afcde22c59de20104db2a4f9e53338e22c0028861cd0390e690",
+      "bytes": 1556
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/split_button_tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/split_button_tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/split_button_tokens.xml",
+      "sha256": "3357593fde99373d6c0e631d4996468f3c408741643b826023eaad3c2ec4cc35",
+      "bytes": 3468
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/styles.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/styles.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/styles.xml",
+      "sha256": "8ffde4dbf47d03fc60d54d12513c6ede5ba9a11b043bdcbe504e38e8461f6b8e",
+      "bytes": 25324
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/button/res/values/dimens.xml",
+      "upstream_path": "lib/java/com/google/android/material/button/res/values/dimens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/dimens.xml",
+      "sha256": "582fb977cc01fc46c87fbe031b67a039a0e85d0ad89bcf157f4716817f701827",
+      "bytes": 3524
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/typography/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/typography/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/typography/res/values/tokens.xml",
+      "sha256": "3127f4f522856d0b92f69bd2ee09a679a1af0d4e4f9d6516e923ad92aa470144",
+      "bytes": 9871
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/motion/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/motion/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/motion/res/values/tokens.xml",
+      "sha256": "117268a8fbee17c12d9da3d2a705a00c6ca475b0068a2aeb32ea51441bb225b7",
+      "bytes": 9595
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/shape/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/shape/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/shape/res/values/tokens.xml",
+      "sha256": "1f7c657fd6797d47d51a27ac7a16c8c8f6707404156bd1c67e9bd5c20d179f03",
+      "bytes": 5507
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/color/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/color/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/color/res/values/tokens.xml",
+      "sha256": "1e015a03bfb2605b735e576b0827a1110721914922f81244d5413f330547ca7b",
+      "bytes": 15699
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/resources/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/resources/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/resources/res/values/tokens.xml",
+      "sha256": "75889cb99ff85b675e32d174ab9df2b8bacd119ea3f87557c6430ec82495c9ce",
+      "bytes": 1244
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/textfield/res/values/tokens_textfield.xml",
+      "upstream_path": "lib/java/com/google/android/material/textfield/res/values/tokens_textfield.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/textfield/res/values/tokens_textfield.xml",
+      "sha256": "4bff30588cfc2b2d10564e825970cc159e5b5feb7a88619529902f7716251546",
+      "bytes": 5438
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/materialswitch/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/materialswitch/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/materialswitch/res/values/tokens.xml",
+      "sha256": "a07470060d075619ec9c1e7d4b605b472a483736cf1327406647b6d996737e04",
+      "bytes": 7014
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/slider/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/slider/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/slider/res/values/tokens.xml",
+      "sha256": "2402705470f264e1b3ff8e2ee4fb090b5a0f925927ffa447041d2622cac7e356",
+      "bytes": 5381
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/navigationrail/res/values/tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/navigationrail/res/values/tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/navigationrail/res/values/tokens.xml",
+      "sha256": "5d08a83df43b894deb3247a7c9e0ab7654b1032abe14ca2a9768ca5bc0574320",
+      "bytes": 5376
+    },
+    {
+      "path": "official/mdc-1.13.0/lib/java/com/google/android/material/floatingactionbutton/res/values/fab_tokens.xml",
+      "upstream_path": "lib/java/com/google/android/material/floatingactionbutton/res/values/fab_tokens.xml",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/floatingactionbutton/res/values/fab_tokens.xml",
+      "sha256": "8dce4ee3fd053a000513fea6ac15ae1b45c7275dd97379aed282801510d118ce",
+      "bytes": 5150
+    },
+    {
+      "path": "official/mdc-1.13.0/docs/components/Button.md",
+      "upstream_path": "docs/components/Button.md",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/docs/components/Button.md",
+      "sha256": "4a0640d19b29940a6039ee7b58a2de65850877cc1a0d1a4277b79409097aa7fd",
+      "bytes": 63899
+    },
+    {
+      "path": "official/mdc-1.13.0/docs/components/TextField.md",
+      "upstream_path": "docs/components/TextField.md",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/docs/components/TextField.md",
+      "sha256": "c6006b40b3f9d02a817e1cbeaab72160e2566b186092bb334f19dc87be5ab218",
+      "bytes": 60555
+    },
+    {
+      "path": "official/mdc-1.13.0/docs/theming/Color.md",
+      "upstream_path": "docs/theming/Color.md",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/docs/theming/Color.md",
+      "sha256": "686f5957fd9f896c2f1af1f170f5910e38f84181da8960f641cfdf6217a260c4",
+      "bytes": 41759
+    }
+  ],
+  "compose": {
+    "artifact": "androidx.compose.material3:material3-android:1.5.0-beta02:sources",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material3/material3-android/1.5.0-beta02/material3-android-1.5.0-beta02-sources.jar",
+    "sha256": "124c8c15190772daf273007dbf54524ef4f66e0a4afa9f3c6a25190ca13d0387",
+    "bytes": 906139,
+    "retrieved_at": "2026-10-23",
+    "role": "Explicit 2026 Expressive-capable snapshot for diagnostic comparison; not a mandatory dependency or interchangeable 2025 specification",
+    "files": [
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/Button.kt",
+        "archive_path": "commonMain/androidx/compose/material3/Button.kt",
+        "sha256": "9095ad12e5b26a20bf0cdc53ba01f54b7c8ca41ba4ece933d578ef28a2d97240",
+        "bytes": 89464
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/MotionScheme.kt",
+        "archive_path": "commonMain/androidx/compose/material3/MotionScheme.kt",
+        "sha256": "95fcf8d94c5885a16d82eab986ce4c1b02a8f09f59784d03a9fab168529ff270",
+        "bytes": 11548
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/Typography.kt",
+        "archive_path": "commonMain/androidx/compose/material3/Typography.kt",
+        "sha256": "e175d32bbe0f8fdf3534cef2cb703531e11eb8d105d167e2a248d3e34cb6a55d",
+        "bytes": 44290
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonLargeTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ButtonLargeTokens.kt",
+        "sha256": "2f7a093a4d05c0156f85319ea3cb1d3937b467fad2f542c9f03819bbdd9a7226",
+        "bytes": 1779
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonMediumTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ButtonMediumTokens.kt",
+        "sha256": "1d16feacb9799c8aba53d58a8f4f6f2f5559223ac019aeb0c321dfcd62150f5d",
+        "bytes": 1770
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonSmallTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ButtonSmallTokens.kt",
+        "sha256": "b69bac18f0d6cb6682e8b84f551105cd0d2d485170ff7b47334c78440977976a",
+        "bytes": 1770
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonXLargeTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ButtonXLargeTokens.kt",
+        "sha256": "2cfbb3ec68847070815bc7614c3d6e6d9bccf38805625718da9a1c50a22090a9",
+        "bytes": 1781
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonXSmallTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ButtonXSmallTokens.kt",
+        "sha256": "52faa424719f9a840a250ff3da189aaf5c1b8f3907f3bcf068752246e1bd685c",
+        "bytes": 1771
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/MotionSchemeKeyTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/MotionSchemeKeyTokens.kt",
+        "sha256": "66a63f46bde19c92e671d2edc107e74abc7268abffc6037d4f51f03a4fe1ee9e",
+        "bytes": 1059
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ShapeTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ShapeTokens.kt",
+        "sha256": "02178111f81c7f03135cc7157040fa903180e212fd52b8f686b4304080efb5a3",
+        "bytes": 2944
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/SplitButtonLargeTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/SplitButtonLargeTokens.kt",
+        "sha256": "afb0e4313b9ce7479c7648fe37e96f60374738958abb39920247923ed4e3362d",
+        "bytes": 1804
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/SplitButtonMediumTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/SplitButtonMediumTokens.kt",
+        "sha256": "9b532414c7f0b40d830bdeb2b778a079aec1f3c12f59e3f7a986d75e1a8d4478",
+        "bytes": 1794
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/SplitButtonSmallTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/SplitButtonSmallTokens.kt",
+        "sha256": "f7e378dd30c7bc0e2a15939f48805ee372544fca4fa01f0baa7636456e1f0a7a",
+        "bytes": 1793
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/SplitButtonXLargeTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/SplitButtonXLargeTokens.kt",
+        "sha256": "c3825c41ead0189951a2a973c2398e993b37daa4736a584dbe747a8265ed2aea",
+        "bytes": 1807
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/SplitButtonXSmallTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/SplitButtonXSmallTokens.kt",
+        "sha256": "4b3108fa867223ec5846f71c55002f01026f2d891f972834cc9241885461f4b0",
+        "bytes": 1843
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/TypeScaleTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/TypeScaleTokens.kt",
+        "sha256": "7ca6378374d78da8a1091d2ee4a4c228f70d0daef65dfd51c18b58f7d9679ba4",
+        "bytes": 16942
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/TypographyKeyTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/TypographyKeyTokens.kt",
+        "sha256": "4e8ab038fbee1ea2f8227f319fdb5165b727be55bb86e81b780c55eceb7baf10",
+        "bytes": 2256
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/TypographyTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/TypographyTokens.kt",
+        "sha256": "b536f8f056cc768ecbff9bf44b0223cacdb2be209e774e0b0819526cf311ef48",
+        "bytes": 15528
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ElevatedButtonTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ElevatedButtonTokens.kt",
+        "sha256": "4cff9fca4f66e2627d8845873b74b2bcf14eadc50d50fae918869cdbb7db6545",
+        "bytes": 4390
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ExpressiveMotionTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/ExpressiveMotionTokens.kt",
+        "sha256": "deefcefc93405c69445071b40e4d9894458bb20cff18b805192c90aea5ba6c73",
+        "bytes": 1355
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/FilledButtonTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/FilledButtonTokens.kt",
+        "sha256": "7612e40587f9fa987a817ddd9a89c424da4e5b91edbe850bd3812156c6ee9e33",
+        "bytes": 4459
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/FilledTonalButtonTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/FilledTonalButtonTokens.kt",
+        "sha256": "9887aa0fa5ee457e33c1bb428a5ef27fd7e0ab6319186f42f2c103d15e36e2a7",
+        "bytes": 3028
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/OutlinedButtonTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/OutlinedButtonTokens.kt",
+        "sha256": "cecb8a34196396158d4e62f394fc1f1f95852f4cfe8e5b29d902b1c179d74401",
+        "bytes": 4784
+      },
+      {
+        "path": "official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/StandardMotionTokens.kt",
+        "archive_path": "commonMain/androidx/compose/material3/tokens/StandardMotionTokens.kt",
+        "sha256": "4b36c30679dcc0b1ec6010e4e40c070901151b59252d9a21d0e4348511370592",
+        "bytes": 1352
+      }
+    ]
+  }
+}

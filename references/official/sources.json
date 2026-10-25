@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "authority_decision_date": "2026-10-25",
+  "scope": "Official source receipts for Qavsi kit design contracts; no product/runtime/native validation.",
+  "material3_site_note": "m3.material.io public pages require JavaScript in web extraction; pinned official Google component/token sources inspected instead.",
+  "sources": [
+    {
+      "id": "google-m3-button",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/button/res/values/tokens.xml",
+      "role": "code",
+      "commit": "84c0e6d6d493fcf176d2099683245b78afbeb78d",
+      "retrieved_at_utc": "2026-10-25T09:33:01.951934+00:00",
+      "sha256": "f5ee336d5bbb409a15e39a78ab98a578ea98d26c14424d98a52a6365ac00be36",
+      "bytes": 14395,
+      "content_type": "text/plain; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/google-m3-button.xml",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "google-m3-typography",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/typography/res/values/tokens.xml",
+      "role": "code",
+      "commit": "84c0e6d6d493fcf176d2099683245b78afbeb78d",
+      "retrieved_at_utc": "2026-10-25T09:33:01.952638+00:00",
+      "sha256": "3127f4f522856d0b92f69bd2ee09a679a1af0d4e4f9d6516e923ad92aa470144",
+      "bytes": 9871,
+      "content_type": "text/plain; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/google-m3-typography.xml",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "google-m3-motion",
+      "url": "https://raw.githubusercontent.com/material-components/material-components-android/84c0e6d6d493fcf176d2099683245b78afbeb78d/lib/java/com/google/android/material/motion/res/values/tokens.xml",
+      "role": "code",
+      "commit": "84c0e6d6d493fcf176d2099683245b78afbeb78d",
+      "retrieved_at_utc": "2026-10-25T09:33:01.962344+00:00",
+      "sha256": "117268a8fbee17c12d9da3d2a705a00c6ca475b0068a2aeb32ea51441bb225b7",
+      "bytes": 9595,
+      "content_type": "text/plain; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/google-m3-motion.xml",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-fluent-tokens",
+      "url": "https://fluent2.microsoft.design/design-tokens",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:02.569950+00:00",
+      "sha256": "43c257ba571351a5f55069f25f5686ce2066bf09ade207ceb8cc12e7eb49d396",
+      "bytes": 129120,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-fluent-tokens.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-fluent-button",
+      "url": "https://fluent2.microsoft.design/components/web/react/core/button/usage",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:03.073123+00:00",
+      "sha256": "7fa3cc24a1cbd2f632d2220615a14d0ebd51807d44b0a10c39258e7727fa5ab6",
+      "bytes": 436800,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-fluent-button.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-fluent-typography",
+      "url": "https://fluent2.microsoft.design/typography",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:03.119459+00:00",
+      "sha256": "776c4777768ec34be3cf1341e8993ea50e5e76df5ffc2c4cee236847451bccc0",
+      "bytes": 144368,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-fluent-typography.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-fluent-motion",
+      "url": "https://fluent2.microsoft.design/motion",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:03.033553+00:00",
+      "sha256": "e064e929a7c7ec329a38c922bf8b81201c5d7a45433a7e1c693c6d8b781fec64",
+      "bytes": 152940,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-fluent-motion.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-mica",
+      "url": "https://learn.microsoft.com/en-us/windows/apps/design/style/mica",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:02.806178+00:00",
+      "sha256": "684c7ed59101b94fa8fb8e69c561be0dc235702032eeabf84d1c7d1008555878",
+      "bytes": 62681,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-mica.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "microsoft-acrylic",
+      "url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:03.216246+00:00",
+      "sha256": "198351f90eca0733ba8105c434b5cd25f47d67598a9fc4af6057b220e6c7726d",
+      "bytes": 60528,
+      "content_type": "text/html",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/microsoft-acrylic.html",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "apple-materials",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/materials.md",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:04.575812+00:00",
+      "sha256": "fb5d0c881b9473438a2d10b0fb3127784e3d9f9cb65a0248cce4ec93431df218",
+      "bytes": 21591,
+      "content_type": "text/markdown; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/apple-materials.md",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "apple-glass-api",
+      "url": "https://developer.apple.com/documentation/appkit/nsglasseffectview.md",
+      "role": "api",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:04.535506+00:00",
+      "sha256": "7837d4c98fd9986dcfb496fe894e785ee3a9783864bdcbfbc1807de026af4ed3",
+      "bytes": 2842,
+      "content_type": "text/markdown; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/apple-glass-api.md",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "apple-progress",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/progress-indicators.md",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:37.552870+00:00",
+      "sha256": "ff55ed05d5d8bb3859b33bd3996b3a42d3ecaac8cd0c0077888c22d1336bd4ef",
+      "bytes": 9399,
+      "content_type": "text/markdown; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/apple-progress.md",
+      "upstream_text_in_deliverable": false
+    },
+    {
+      "id": "apple-typography",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/typography.md",
+      "role": "guidance",
+      "commit": null,
+      "retrieved_at_utc": "2026-10-25T09:33:44.848879+00:00",
+      "sha256": "f3131c3bf075cca8b7c010051ac36784f91c4770f7efc7f0d5863fb7ad1dd043",
+      "bytes": 75396,
+      "content_type": "text/markdown; charset=utf-8",
+      "research_cache": "/private/tmp/qavsi-official-design-authorities/apple-typography.md",
+      "upstream_text_in_deliverable": false
+    }
+  ],
+  "existing_pinned_implementation_references": {
+    "google_mdc": "../../reviews/evidence/01/official-sources.json",
+    "microsoft_fluentui_commit": "6d3e9d686434d69ac8fc9ca4c4a93f3afaa3d676",
+    "microsoft_windows_docs_commit": "a3812316d9d6678be4e526ffb4b1c4f3958d956d"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 3,
+  "selection": "Accepted user decision on 2026-10-25: official Google Material 3 and Microsoft Fluent 2/Windows guidance; preserve native Apple Liquid Glass based on HIG/public AppKit. VoltAgent Apple website analysis is supplemental only.",
+  "active_inputs": {
+    "material3": {
+      "status": "user-confirmed",
+      "authority": "Google Material 3",
+      "design_contract": "../design-systems/material3/DESIGN.md",
+      "guidance_urls": [
+        "https://m3.material.io/",
+        "https://m3.material.io/components/buttons/overview",
+        "https://m3.material.io/foundations/design-tokens/overview"
+      ],
+      "official_source_ids": [
+        "google-m3-button",
+        "google-m3-typography",
+        "google-m3-motion"
+      ],
+      "implementation_reference_commit": "84c0e6d6d493fcf176d2099683245b78afbeb78d",
+      "edition_policy": "Pin each family recipe edition/platform; do not mix M3/Expressive/Compose snapshots."
+    },
+    "fluent": {
+      "status": "user-confirmed",
+      "authority": "Microsoft Fluent 2 and Windows design guidance",
+      "design_contract": "../design-systems/fluent/DESIGN.md",
+      "guidance_urls": [
+        "https://fluent2.microsoft.design/design-tokens",
+        "https://fluent2.microsoft.design/typography",
+        "https://fluent2.microsoft.design/motion",
+        "https://fluent2.microsoft.design/components/web/react/core/button/usage",
+        "https://learn.microsoft.com/en-us/windows/apps/design/style/mica",
+        "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic"
+      ],
+      "official_source_ids": [
+        "microsoft-fluent-tokens",
+        "microsoft-fluent-button",
+        "microsoft-fluent-typography",
+        "microsoft-fluent-motion",
+        "microsoft-mica",
+        "microsoft-acrylic"
+      ],
+      "implementation_reference_commit": "6d3e9d686434d69ac8fc9ca4c4a93f3afaa3d676",
+      "platform_policy": "Web/Windows recipes and native backdrop implementations remain separate; no full WinUI support claim."
+    },
+    "apple": {
+      "status": "user-confirmed",
+      "authority": "Apple HIG and public AppKit",
+      "design_contract": "../design-systems/apple/DESIGN.md",
+      "target": "native Liquid Glass",
+      "guidance_urls": [
+        "https://developer.apple.com/design/human-interface-guidelines/materials",
+        "https://developer.apple.com/design/human-interface-guidelines/typography",
+        "https://developer.apple.com/design/human-interface-guidelines/progress-indicators",
+        "https://developer.apple.com/documentation/appkit/nsglasseffectview"
+      ],
+      "official_source_ids": [
+        "apple-materials",
+        "apple-glass-api",
+        "apple-progress",
+        "apple-typography"
+      ],
+      "supplemental_source_id": "voltagent-apple-website",
+      "fallback_policy": "Readable opaque software/unsupported-platform fallback; native attachment is not visual validation."
+    }
+  },
+  "previous_manifest": {
+    "file": "history/2026-10-24-sources.json",
+    "sha256": "872bf85d261734ef5529814c53267e91dc539ca4489e40572cc597f9d45a96ed",
+    "role": "Original six reviews input; source-dependent claims are historical, executable Qt proofs are unaffected."
+  },
+  "sources": [
+    {
+      "id": "material-design-3",
+      "title": "Material Design 3 / Material You",
+      "file": "material3/DESIGN.md",
+      "page": "https://designmd.app/library/material-design-3",
+      "download": "https://designmd.app/library/material-design-3/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.515928+00:00",
+      "sha256": "1ea35e38148f7173e5459e57f7cb9f6001c395dce995fad7aacd016285c1e8eb",
+      "format_version": "alpha",
+      "role": "kit reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false,
+      "status": "historical-provisional-input",
+      "status_reason": "User clarified intended repository on 2026-10-25; retained byte-identical for the original review evidence, not selected by the user as the current source."
+    },
+    {
+      "id": "liquid-glass",
+      "title": "Liquid Glass",
+      "file": "apple/DESIGN.md",
+      "page": "https://designmd.app/library/liquid-glass",
+      "download": "https://designmd.app/library/liquid-glass/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.516897+00:00",
+      "sha256": "dc843b4538a962caca06e21c1e43c1a264ea72f638b186a850f6f8ca17550b93",
+      "format_version": "alpha",
+      "role": "kit visual reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": null,
+      "modified": false,
+      "normative_authority": false,
+      "status": "historical-provisional-input",
+      "status_reason": "User clarified intended repository on 2026-10-25; retained byte-identical for the original review evidence, not selected by the user as the current source."
+    },
+    {
+      "id": "fluent-design-2",
+      "title": "Fluent Design 2 (Fluent 2)",
+      "file": "fluent/DESIGN.md",
+      "page": "https://designmd.app/library/fluent-design-2",
+      "download": "https://designmd.app/library/fluent-design-2/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.517190+00:00",
+      "sha256": "dfd665f72baecaf49c37052cd3f84474ecce2c4bc52c74ae9ce104cd74a4ec9b",
+      "format_version": "alpha",
+      "role": "kit reference",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false,
+      "status": "historical-provisional-input",
+      "status_reason": "User clarified intended repository on 2026-10-25; retained byte-identical for the original review evidence, not selected by the user as the current source."
+    },
+    {
+      "id": "apple-hig",
+      "title": "Apple HIG (pre-Liquid flat)",
+      "file": "apple/pre-liquid.DESIGN.md",
+      "page": "https://designmd.app/library/apple-hig",
+      "download": "https://designmd.app/library/apple-hig/design.md",
+      "retrieved_at": "2026-10-23T20:35:59.517665+00:00",
+      "sha256": "5dd6f714ecb467261b0b85dec23ee8e8ead05a14face043e29ab2e3d019ade3f",
+      "format_version": "alpha",
+      "role": "historical supplement, not Liquid Glass replacement",
+      "page_declared_license": "https://creativecommons.org/licenses/by/4.0/",
+      "page_reported_upstream": {
+        "repository": "https://github.com/ara-mkr/claude-artisan",
+        "commit_prefix": "ae6d3ad",
+        "license_label": "MIT"
+      },
+      "modified": false,
+      "normative_authority": false,
+      "status": "historical-provisional-input",
+      "status_reason": "User clarified intended repository on 2026-10-25; retained byte-identical for the original review evidence, not selected by the user as the current source."
+    },
+    {
+      "id": "voltagent-apple-website",
+      "title": "Apple-design-analysis (apple.com website)",
+      "file": "voltagent/apple/DESIGN.md",
+      "page": "https://github.com/VoltAgent/awesome-design-md/blob/3b605329240ce735b510037cca322f1831fdd7f8/design-md/apple/DESIGN.md",
+      "download": "https://raw.githubusercontent.com/VoltAgent/awesome-design-md/3b605329240ce735b510037cca322f1831fdd7f8/design-md/apple/DESIGN.md",
+      "repository": "https://github.com/VoltAgent/awesome-design-md",
+      "commit": "3b605329240ce735b510037cca322f1831fdd7f8",
+      "sha256": "83fbc614443a9b3d7569e9956a43e7b8740f9d0f939f58b8154f7a7cec3002b2",
+      "git_blob_sha1": "0d37e1e5f6b621ccbdc666f6d9c82f2ada26208b",
+      "retrieved_at": "2026-10-25T09:07:29.655687+00:00",
+      "role": "User-supplied Apple website analysis; secondary visual reference only. Native Apple contract is based on HIG/public AppKit.",
+      "license": "MIT",
+      "license_file": "voltagent/LICENSE",
+      "license_sha256": "6d4bdc9a9cf30e7beb593475fdcdbf29f981ea6bd7923f202866145409f87b44",
+      "modified": false,
+      "normative_authority": false,
+      "status": "supplemental-web-reference"
+    }
+  ],
+  "supplemental_repository": {
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "requested_ref": "main",
+    "commit": "3b605329240ce735b510037cca322f1831fdd7f8",
+    "inventory": "voltagent/inventory.json",
+    "tree_truncated": false,
+    "design_files": 84
+  },
+  "official_reference_manifest": "official/sources.json",
+  "authority_decision": {
+    "date": "2026-10-25",
+    "status": "accepted",
+    "owner": "user",
+    "scope": "Source authority and native Apple target; implementation/render support is not implied."
+  }
+}

@@ -1,0 +1,1025 @@
+{
+  "scope": "Historical references omitted from this public documentation repository; entries are receipts, not redistributed raw evidence.",
+  "references": [
+    {
+      "report": "references/SOURCES.md",
+      "label": "DESIGN.md",
+      "reference": "material3/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "references/SOURCES.md",
+      "label": "DESIGN.md",
+      "reference": "apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "references/SOURCES.md",
+      "label": "DESIGN.md",
+      "reference": "fluent/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "references/SOURCES.md",
+      "label": "pre-liquid.DESIGN.md",
+      "reference": "apple/pre-liquid.DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "docs/VALIDATION.md",
+      "label": "documentation-check.json",
+      "reference": "../reviews/evidence/documentation-check.json",
+      "catalog_anchor": "docs-audit"
+    },
+    {
+      "report": "reviews/SUMMARY.md",
+      "label": "katalog girdisi",
+      "reference": "../references/material3/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/SUMMARY.md",
+      "label": "katalog girdisi",
+      "reference": "../references/fluent/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "Cocoa sonucu",
+      "reference": "evidence/04/qt-only-cocoa.json",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "offscreen sonucu",
+      "reference": "evidence/04/qt-only-offscreen.json",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "IconResources_mac.mm:14",
+      "reference": "MERCE_REPOSITORY/Foundation/IconResources_mac.mm:14",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "MerceMaterial3Style.qml:10",
+      "reference": "MERCE_REPOSITORY/Style/Material3/MerceMaterial3Style.qml:10",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "MerceGlassStyle.qml:6",
+      "reference": "MERCE_REPOSITORY/Style/Glass/MerceGlassStyle.qml:6",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "ButtonSupportContent.qml:24",
+      "reference": "MERCE_SOURCE/experiments/button-support/ButtonSupportContent.qml:24",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "LoadingStyles.qml:3",
+      "reference": "MERCE_SOURCE/experiments/button-support/LoadingStyles.qml:3",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "qaccessibilityhints.h:19",
+      "reference": "QT_SDK/lib/QtGui.framework/Headers/qaccessibilityhints.h:19",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "MercePlatformCapabilities.cpp:31",
+      "reference": "MERCE_REPOSITORY/Platform/MercePlatformCapabilities.cpp:31",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "MerceAccessibility.h:33",
+      "reference": "MERCE_REPOSITORY/Platform/MerceAccessibility.h:33",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "macOS dışı no-op:26",
+      "reference": "MERCE_REPOSITORY/Platform/MerceAccessibility.cpp:26",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "MerceSurfaceMaterial_mac.mm:142",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:142",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "WindowIntegration.qml:12",
+      "reference": "MERCE_REPOSITORY/Style/WindowIntegration.qml:12",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "FontAwesomeIcon.qml:35",
+      "reference": "MERCE_REPOSITORY/Icons/FontAwesome/FontAwesomeIcon.qml:35",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "Apple snapshot:65",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "Provenance",
+      "reference": "evidence/04/provenance.json",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "Kaynak",
+      "reference": "evidence/04/main.cpp",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "CMake",
+      "reference": "evidence/04/CMakeLists.txt",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "configure",
+      "reference": "evidence/04/configure.log",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "build",
+      "reference": "evidence/04/build.log",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/04-shared-boundary.md",
+      "label": "stderr",
+      "reference": "evidence/04/qt-only-cocoa.stderr",
+      "catalog_anchor": "review-04"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "evidence/05",
+      "reference": "evidence/05/",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "configure.log",
+      "reference": "evidence/05/configure.log",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "build.log",
+      "reference": "evidence/05/build.log",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "summary.json",
+      "reference": "evidence/05/summary.json",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "SHA256.json",
+      "reference": "evidence/05/SHA256.json",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "same-instance.log",
+      "reference": "evidence/05/same-instance.log",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "two-engines.log",
+      "reference": "evidence/05/two-engines.log",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "dynamic-variation.log",
+      "reference": "evidence/05/dynamic-variation.log",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "A/dark/hover",
+      "reference": "evidence/05/A-dark-hover.png",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "B/light/normal",
+      "reference": "evidence/05/B-light-normal.png",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/05-stylekit-runtime.md",
+      "label": "URL/hash provenance",
+      "reference": "evidence/05/research-sources.json",
+      "catalog_anchor": "review-05"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "Fluent DESIGN.md",
+      "reference": "../references/fluent/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "URL/commit/hash envanteri",
+      "reference": "evidence/03/provenance.json",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "diagnostic-result.json",
+      "reference": "evidence/03/diagnostic-result.json",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "diagnostic",
+      "reference": "evidence/03/diagnostic.py",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "sonuç",
+      "reference": "evidence/03/diagnostic-result.json",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "55 URL/dosya kaydı",
+      "reference": "evidence/03/provenance.json",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/03-fluent.md",
+      "label": "diagnostic.py",
+      "reference": "evidence/03/diagnostic.py",
+      "catalog_anchor": "review-03"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Yerel dosya",
+      "reference": "../references/material3/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "qt-sources.json",
+      "reference": "evidence/01/qt-sources.json",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceMaterial3Style.qml:11",
+      "reference": "MERCE_REPOSITORY/Style/Material3/MerceMaterial3Style.qml:11",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceStyle.qml:81",
+      "reference": "MERCE_REPOSITORY/Style/MerceStyle.qml:81",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3ButtonTheme.qml:9",
+      "reference": "MERCE_REPOSITORY/Style/Material3/internal/actions/Material3ButtonTheme.qml:9",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "CMakeLists.txt:112",
+      "reference": "MERCE_REPOSITORY/Style/Material3/CMakeLists.txt:112",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "DESIGN.md:65",
+      "reference": "../references/material3/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "material3.json:173",
+      "reference": "MERCE_REPOSITORY/tools/design-tokens/tokens/styles/material3.json:173",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Generated recipe:4",
+      "reference": "MERCE_REPOSITORY/generated/styles/Material3ButtonRecipe.js:4",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "diagnostic.json",
+      "reference": "evidence/01/diagnostic.json",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "ButtonLargeTokens.kt:24",
+      "reference": "evidence/01/official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ButtonLargeTokens.kt",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3ButtonSizeVariation.qml:23",
+      "reference": "MERCE_REPOSITORY/Style/Material3/internal/actions/variations/Material3ButtonSizeVariation.qml:23",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceMaterial3Style.qml:118",
+      "reference": "MERCE_REPOSITORY/Style/Material3/MerceMaterial3Style.qml:118",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Button.kt:1640",
+      "reference": "evidence/01/official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/Button.kt",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "SDK Button.qml:49",
+      "reference": "evidence/01/qt-6.12.0/qml/Qt/labs/StyleKit/Button.qml",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "diagnostic.json",
+      "reference": "evidence/01/diagnostic.json",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "SDK Label.qml:23",
+      "reference": "evidence/01/qt-6.12.0/qml/Qt/labs/StyleKit/Label.qml",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3IconButtonVariation.qml:19",
+      "reference": "MERCE_REPOSITORY/Style/Material3/internal/actions/variations/Material3IconButtonVariation.qml:19",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "ButtonContent.qml:103",
+      "reference": "MERCE_REPOSITORY/Style/ButtonContent.qml:103",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MButton.qml:58",
+      "reference": "MERCE_REPOSITORY/Controls/MButton.qml:58",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceMaterial3Style.qml:74",
+      "reference": "MERCE_REPOSITORY/Style/Material3/MerceMaterial3Style.qml:74",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceMotion.h:37",
+      "reference": "MERCE_REPOSITORY/Theme/MerceMotion.h:37",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3InputBackground.qml:159",
+      "reference": "MERCE_REPOSITORY/Style/Material3/Material3InputBackground.qml:159",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3InteractionFeedback.qml:95",
+      "reference": "MERCE_REPOSITORY/Style/Material3/Material3InteractionFeedback.qml:95",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "ExpressiveMotionTokens.kt:22",
+      "reference": "evidence/01/official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/ExpressiveMotionTokens.kt",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceStyle.qml:97",
+      "reference": "MERCE_REPOSITORY/Style/MerceStyle.qml:97",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3ButtonVariation.qml:56",
+      "reference": "MERCE_REPOSITORY/Style/Material3/internal/actions/variations/Material3ButtonVariation.qml:56",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "FilledButtonTokens.kt:28",
+      "reference": "evidence/01/official/compose-material3-1.5.0-beta02/commonMain/androidx/compose/material3/tokens/FilledButtonTokens.kt",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3ButtonVariations.qml:315",
+      "reference": "MERCE_REPOSITORY/Style/Material3/internal/actions/variations/Material3ButtonVariations.qml:315",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "BrandDerivation.cpp:199",
+      "reference": "MERCE_REPOSITORY/Theme/BrandDerivation.cpp:199",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "Material3InputBackground.qml:14",
+      "reference": "MERCE_REPOSITORY/Style/Material3/Material3InputBackground.qml:14",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "MerceMaterial3Style.qml:39",
+      "reference": "MERCE_REPOSITORY/Style/Material3/MerceMaterial3Style.qml:39",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "DESIGN.md:114",
+      "reference": "../references/material3/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "style:125",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_style.cpp:125",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "fields:50",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_fields.cpp:50",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "menus:131",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_menus.cpp:131",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "tabs:125",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_tabs.cpp:125",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "sliders:319",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_sliders.cpp:319",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "swipe:114",
+      "reference": "MERCE_REPOSITORY/tests/Style/tst_merce_material3_swipe.cpp:114",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "diagnose.py",
+      "reference": "evidence/01/diagnose.py",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "sonuç",
+      "reference": "evidence/01/diagnostic.json",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "log",
+      "reference": "evidence/01/qml-source-lint.log",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/01-material3.md",
+      "label": "komut/exit",
+      "reference": "evidence/01/qml-source-lint-run.json",
+      "catalog_anchor": "review-01"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "02 kanıtları",
+      "reference": "evidence/02/provenance.json",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "SurfaceMaterial:108",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:108",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "WindowMaterial:150",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:150",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "chrome adaptörü:63",
+      "reference": "MERCE_REPOSITORY/playground/PlaygroundWindowChrome_mac.mm:63",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Snapshot:169",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:169",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "restore:131",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:131",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Surface state:32",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:32",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "container arama:124",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:124",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Mask arama:28",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:28",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "SurfaceMaterial:143",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:143",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Apple public SDK header:27",
+      "reference": "MACOS_SDK/System/Library/Frameworks/AppKit.framework/Headers/NSGlassEffectView.h:27",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Surface:135",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:135",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Window:181",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:181",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Dönen sonuç:174",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:174",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "DESIGN:399",
+      "reference": "MERCE_REPOSITORY/DESIGN.md:399",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":477",
+      "reference": "MERCE_REPOSITORY/DESIGN.md:477",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "surfaceRect:138",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial.cpp:138",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "macOS:155",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:155",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "host scale:244",
+      "reference": "MERCE_REPOSITORY/tests/Platform/tst_merce_surface_material.cpp:244",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Geometri sınırı:131",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial.cpp:131",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Surface destek:94",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:94",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "uygulama kapıları:108",
+      "reference": "MERCE_REPOSITORY/Platform/MerceSurfaceMaterial_mac.mm:108",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Yerel SDK tanımları:93",
+      "reference": "MACOS_SDK/System/Library/Frameworks/AppKit.framework/Headers/NSAccessibility.h:93",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Accessibility.h:33",
+      "reference": "MERCE_REPOSITORY/Platform/MerceAccessibility.h:33",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Observer cleanup:29",
+      "reference": "MERCE_REPOSITORY/Platform/MerceAccessibility_mac.mm:29",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Liquid Glass DESIGN.md",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":4",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":96",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":78",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":49",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": ":6",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "MerceStyle:10",
+      "reference": "MERCE_REPOSITORY/Style/Glass/MerceGlassStyle.qml:10",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "WindowIntegration:12",
+      "reference": "MERCE_REPOSITORY/Style/WindowIntegration.qml:12",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "CMake:25",
+      "reference": "MERCE_REPOSITORY/playground/CMakeLists.txt:25",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Legacy Platform:31",
+      "reference": "MERCE_REPOSITORY/Platform/MercePlatformCapabilities.cpp:31",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "public-api-probe.mm",
+      "reference": "evidence/02/public-api-probe.mm",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "CMake",
+      "reference": "evidence/02/CMakeLists.txt",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "configure",
+      "reference": "evidence/02/configure.log",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "build",
+      "reference": "evidence/02/build.log",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "Availability symbols",
+      "reference": "evidence/02/availability-symbols.log",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "deployment",
+      "reference": "evidence/02/deployment.log",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "provenance",
+      "reference": "evidence/02/provenance.json",
+      "catalog_anchor": "review-02"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "WindowMaterial:177",
+      "reference": "MERCE_REPOSITORY/Platform/MerceWindowMaterial_mac.mm:177",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "rotation/opacity/clip:294",
+      "reference": "MERCE_REPOSITORY/tests/Platform/tst_merce_surface_material.cpp:294",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "mask lifecycle:324",
+      "reference": "MERCE_REPOSITORY/tests/Platform/tst_merce_surface_material.cpp:324",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/02-apple.md",
+      "label": "window lifecycle:164",
+      "reference": "MERCE_REPOSITORY/tests/Platform/tst_merce_window_material.cpp:164",
+      "catalog_anchor": "local-source-audit"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Ortam kaydı",
+      "reference": "evidence/06/environment.json",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "İlk lint",
+      "reference": "evidence/06/logs/lint-moved-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "katı negatif kontrol",
+      "reference": "evidence/06/logs/lint-moved-shared-strict-before.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Final kaynak tüketici",
+      "reference": "evidence/06/prototype/consumer/CMakeLists.txt",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "config şablonu",
+      "reference": "evidence/06/prototype/package/cmake/QavsiDeliveryProofConfig.cmake.in",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "final lint",
+      "reference": "evidence/06/logs/lint-final-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "İlk statik hata",
+      "reference": "evidence/06/logs/run-source-static.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "isim eşleşmesi uyarısı",
+      "reference": "evidence/06/logs/reconfigure-moved-static-metadata.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Modül CMake'i",
+      "reference": "evidence/06/prototype/package/src/Qavsi/Review/Probe/CMakeLists.txt",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Source final",
+      "reference": "evidence/06/logs/run-source-static-final.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "installed final",
+      "reference": "evidence/06/logs/run-final-static.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "yerel SDK parmak izi",
+      "reference": "evidence/06/qt-sdk-macros.json",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "OFF configure",
+      "reference": "evidence/06/logs/configure-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "ON negatif kontrol",
+      "reference": "evidence/06/logs/configure-provider-on.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "eksik component",
+      "reference": "evidence/06/logs/configure-missing-component.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Version assertions",
+      "reference": "evidence/06/logs/version-policy-final.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "SDK tool hatası",
+      "reference": "evidence/06/logs/run-dynamic-plugin-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Qt-only host final",
+      "reference": "evidence/06/logs/run-plugin-diagnostic-final.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "Tarama",
+      "reference": "evidence/06/logs/absolute-path-scan-final.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "izolasyon",
+      "reference": "evidence/06/logs/source-isolation.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "taşıma",
+      "reference": "evidence/06/logs/prefix-relocation.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "commands.json",
+      "reference": "evidence/06/commands.json",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "evidence/06",
+      "reference": "evidence/06/README.md",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "shared build",
+      "reference": "evidence/06/logs/build-final-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "shared run",
+      "reference": "evidence/06/logs/run-final-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "shared lint",
+      "reference": "evidence/06/logs/lint-final-shared.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "static build",
+      "reference": "evidence/06/logs/build-final-static.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "static run",
+      "reference": "evidence/06/logs/run-final-static.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/06-delivery.md",
+      "label": "static lint",
+      "reference": "evidence/06/logs/lint-final-static.log",
+      "catalog_anchor": "review-06"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "Eski:111",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "Eski:103",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "Eski:49",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "Eski:91",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "Eski:96",
+      "reference": "../references/apple/DESIGN.md",
+      "catalog_anchor": "historical-inputs"
+    },
+    {
+      "report": "reviews/apple-source-addendum.md",
+      "label": "provenance",
+      "reference": "evidence/02/provenance.json",
+      "catalog_anchor": "review-02"
+    }
+  ]
+}
